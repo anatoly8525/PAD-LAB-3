@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Padlab'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9331FAD0EDA34E31B1202EF2F5C60158 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64F4FF5C3E484B7D95F6454C6FCB8DD4 }}
           package: .
